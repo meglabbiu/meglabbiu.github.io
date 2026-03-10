@@ -1,0 +1,87 @@
+# ──────────────────────────────────────────────
+# Publications
+# Add new entries at the top. Each entry needs:
+#   year, authors, title, journal, link (optional)
+# ──────────────────────────────────────────────
+
+- year: 2022
+  authors: "Korisky, A., Goldstein, A., Gordon, I."
+  title: "The dual neural effects of oxytocin in autistic youth: Results from a randomized trial."
+  journal: "Scientific Reports, 12: 16304"
+  link: "https://www.nature.com/articles/s41598-022-19524-7"
+
+- year: 2022
+  authors: "Korisky, A., Gordon, I., Goldstein, A."
+  title: "Oxytocin impacts top-down and bottom-up social perception in adolescents with ASD: A MEG study of neural connectivity."
+  journal: "Molecular Autism, 13: 1-12"
+  link: "https://molecularautism.biomedcentral.com/articles/10.1186/s13229-022-00513-6"
+
+- year: 2022
+  authors: "Levy, J., Influss, M., Masalha, S., Goldstein, A., & Feldman, R."
+  title: "Dialogue intervention for youth amidst intractable conflict attenuates neural prejudice response and promotes adults' peacemaking."
+  journal: "PNAS Nexus, 1, pgac236"
+  link: "https://academic.oup.com/pnasnexus/article/1/5/pgac236/6761418"
+
+- year: 2022
+  authors: "Herfurth, K., Harpaz, Y., Roesch, J., Mueller N., Walther, K., Pauli, E., Kaltenhaeuser, M., Goldstein, A., Hamer, H., Buchfelder, M., Dörfler, A., Prell, J., & Rampp, A."
+  title: "Localization of beta power decrease as measure for lateralization in pre-surgical language mapping with MEG."
+  journal: "Frontiers in Human Neuroscience, 16"
+  link: "https://www.frontiersin.org/articles/10.3389/fnhum.2022.996989/full"
+
+- year: 2022
+  authors: "Reuveni, I., Herz, N., Peri, T., Schreiber, S., Harpaz, Y., Geisser, R., Bonne, O. & Goldstein, A."
+  title: "Neural oscillations while remembering traumatic memories in post-traumatic stress disorder."
+  journal: "Clinical Neurophysiology, 139, 58-68"
+  link: "https://www.sciencedirect.com/science/article/pii/S1388245722002371"
+
+- year: 2022
+  authors: "Korisky, A., Goldstein, A., Zaidel, A., & Gordon, I."
+  title: "Reduced sensitivity to curvature in adolescents diagnosed with ASD."
+  journal: "Research in Autism Spectrum Disorders, 92, 101929"
+  link: "https://www.sciencedirect.com/science/article/pii/S1750946722000162"
+
+- year: 2022
+  authors: "Zeev-Wolf, M., Dor-Ziderman, Y., Pratt, M., Goldstein, A., & Feldman, R."
+  title: "Investigating default mode network connectivity disruption in children of mothers with depression."
+  journal: "The British Journal of Psychiatry, 220, 130-139"
+  link: "https://www.cambridge.org/core/journals/the-british-journal-of-psychiatry/article/3D8FCD81731C4AC214CC835F4558D55D"
+
+- year: 2022
+  authors: "Levy, J., Goldstein, A., Influss, M., Masalha, S. & Feldman, R."
+  title: "Neural rhythmic underpinnings of intergroup bias: Implications for peace-building attitudes and dialogue."
+  journal: "Social Cognitive and Affective Neuroscience, 17, 408-420"
+  link: "https://academic.oup.com/scan/article/17/4/408/6370052"
+
+- year: 2021
+  authors: "Dor-Ziderman, Y., Zeev-Wolf, M., Klein, E. H., Bar-Oz, D., Nitzan, U., Maoz, H., Segev, A., Goldstein, A., Koubi, M., Mendelovic, S., Gvirts, H. & Bloch, Y."
+  title: "High-gamma oscillations as neurocorrelates of ADHD: A MEG crossover placebo-controlled study."
+  journal: "Journal of Psychiatric Research, 137, 186-193"
+  link: "https://www.sciencedirect.com/science/article/pii/S002239562100128X"
+
+- year: 2021
+  authors: "Balthazard, P., Berka, C., Berson, Y., Blader, S., Goldstein, A., Gordon, I., et al."
+  title: "Leadership and team processes: A Neuroscience perspective."
+  journal: "Academy of Management Proceedings, 1, 13752"
+
+- year: 2019
+  authors: "Dor-Ziderman, Y., Lutz, A., & Goldstein, A."
+  title: "Prediction-based neural mechanisms for shielding the self from existential threat."
+  journal: "NeuroImage, 202, 116080"
+  link: "https://www.sciencedirect.com/science/article/pii/S1053811919306688"
+
+- year: 2019
+  authors: "Arviv, O., Goldstein, A., & Shriki, O."
+  title: "Neuronal avalanches and time-frequency representations in stimulus-evoked activity."
+  journal: "Scientific Reports, 9, 1-14"
+  link: "https://www.nature.com/articles/s41598-019-49788-5"
+
+- year: 2019
+  authors: "Levy, J., Goldstein, A., Feldman, R."
+  title: "The neural development of empathy is sensitive to caregiving and early trauma."
+  journal: "Nature Communications, 10, 1905"
+  link: "https://www.nature.com/articles/s41467-019-09927-y"
+
+- year: 2019
+  authors: "Levy, J., Yirmiya, K., Goldstein, A., Feldman, R."
+  title: "Chronic trauma impairs the neural basis of empathy in mothers: Relations to parenting and children's empathic abilities."
+  journal: "Developmental Cognitive Neuroscience"

@@ -1,0 +1,100 @@
+# ──────────────────────────────────────────────
+# MEG@BIU Lab Website — Jekyll + Minimal Mistakes
+# ──────────────────────────────────────────────
+
+# Site Settings
+remote_theme: "mmistakes/minimal-mistakes@4.27.3"
+minimal_mistakes_skin: "air"  # clean, light skin — alternatives: default, aqua, contrast, dark, dirt, neon, mint, plum, sunrise
+
+locale: "en-US"
+title: "MEG@BIU"
+subtitle: "Goldstein Lab"
+name: "MEG Lab, Bar-Ilan University"
+description: "MEG Laboratory — Gonda Brain Research Center, Bar-Ilan University. We study cognitive and emotional processes using electrical and magnetic brain recordings."
+url: "https://meglabbiu.org"
+repository: "meglabbiu/meglabbiu.github.io"        # ← your custom domain
+baseurl: ""                            # leave empty for root domain
+
+# Site Author (shown in sidebar on some layouts)
+author:
+  name: "Avi Goldstein"
+  bio: "Principal Investigator, MEG Lab"
+  location: "Bar-Ilan University, Israel"
+  email: "megunit@gmail.com"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:megunit@gmail.com"
+    - label: "Google Scholar"
+      icon: "fas fa-fw fa-graduation-cap"
+      url: "https://scholar.google.com/citations?user=YOUR_ID"
+    # Add Twitter/X, ORCID, etc. as needed
+
+# Footer
+footer:
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:megunit@gmail.com"
+
+# Reading / Build
+encoding: "utf-8"
+markdown: kramdown
+highlighter: rouge
+kramdown:
+  input: GFM
+
+# Plugins (GitHub Pages compatible)
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+  - jekyll-include-cache
+
+# Pagination
+paginate: 5
+paginate_path: /news/page:num/
+
+# Collections — used for team members
+collections:
+  team:
+    output: true
+    permalink: /team/:path/
+
+# Defaults — set layout per content type
+defaults:
+  # Pages
+  - scope:
+      path: "_pages"
+      type: pages
+    values:
+      layout: single
+      author_profile: false
+  # Team members
+  - scope:
+      path: ""
+      type: team
+    values:
+      layout: single
+      author_profile: false
+  # Posts (news)
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: false
+      read_time: false
+      share: false
+      related: false
+
+# Exclude from build
+exclude:
+  - README.md
+  - LICENSE
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor

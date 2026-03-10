@@ -1,0 +1,42 @@
+# ──────────────────────────────────────────────
+# Team Members
+# Edit this file to add/remove/update members.
+# Photos go in /assets/images/team/
+# ──────────────────────────────────────────────
+
+pi:
+  - name: "Avi Goldstein"
+    role: "Principal Investigator"
+    bio: "Professor at the Department of Psychology, Bar-Ilan University"
+    image: /assets/images/team/avi-goldstein.jpg
+    scholar: "https://scholar.google.com/citations?user=YOUR_ID"
+    email: "avi.goldstein@biu.ac.il"
+
+current:
+  - name: "Barak Atia"
+    role: "Lab Manager · PhD Student"
+    image: /assets/images/team/barak-atia.jpg
+
+  - name: "Reina van der Goot"
+    role: "PhD Student"
+    image: /assets/images/team/reina-vandergoot.jpg
+
+  - name: "Mickey Katz"
+    role: "Master's Student"
+    image: /assets/images/team/mickey-katz.jpg
+
+  - name: "Daniil Sergeyenko"
+    role: "Brain Science Student"
+    image: /assets/images/team/daniil-sergeyenko.jpg
+
+  - name: "Adan Saada"
+    role: "Master's Student"
+    image: /assets/images/team/adan-saada.jpg
+
+  - name: "Eden Tzadik"
+    role: "Master's Student"
+    image: /assets/images/team/eden-tzadik.jpg
+
+alumni:
+  - name: "Oshrit Arviv"
+  - name: "Assaf Paul Cohen"
