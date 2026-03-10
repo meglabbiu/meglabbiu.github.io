@@ -37,3 +37,4 @@ We investigate neural mechanisms across clinical populations:
 ## Empathy & Intergroup Relations
 
 Using MEG, we study the neural development of empathy in the context of caregiving, early trauma, and intergroup conflict. This work spans from individual-level empathic processing to group-level peace-building interventions.
+
