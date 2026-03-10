@@ -11,7 +11,7 @@ title: "MEG@BIU"
 subtitle: "Goldstein Lab"
 name: "MEG Lab, Bar-Ilan University"
 description: "MEG Laboratory — Gonda Brain Research Center, Bar-Ilan University. We study cognitive and emotional processes using electrical and magnetic brain recordings."
-url: "https://meglabbiu.org"
+url: "https://meglabbiu.github.io"
 repository: "meglabbiu/meglabbiu.github.io"        # ← your custom domain
 baseurl: ""                            # leave empty for root domain
 
