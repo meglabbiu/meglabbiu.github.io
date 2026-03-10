@@ -8,7 +8,7 @@ permalink: /team/
 
 {% for person in site.data.team.pi %}
 <div style="display: flex; gap: 24px; align-items: flex-start; margin-bottom: 32px;">
-  <img src="{{ person.image }}" alt="{{ person.name }}" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover; flex-shrink: 0;" onerror="this.style.display='none'">
+  <img src="{{ person.image }}" alt="{{ person.name }}" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover; flex-shrink: 0;">
   <div>
     <h3 style="margin-top: 0;">{{ person.name }}</h3>
     <p>{{ person.role }}<br>{{ person.bio }}</p>
@@ -25,7 +25,7 @@ permalink: /team/
 <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(180px, 1fr)); gap: 24px; margin-top: 16px;">
 {% for person in site.data.team.current %}
 <div style="text-align: center;">
-  <img src="{{ person.image }}" alt="{{ person.name }}" style="width: 130px; height: 130px; border-radius: 50%; object-fit: cover; margin-bottom: 8px;" onerror="this.outerHTML='<div style=\'width:130px;height:130px;border-radius:50%;background:#e2e8f0;margin:0 auto 8px;display:flex;align-items:center;justify-content:center;font-size:28px;color:#94a3b8;\'>{{ person.name | split: \' \' | map: \'first\' | join: \'\' }}</div>'">
+  <img src="{{ person.image }}" alt="{{ person.name }}" style="width: 130px; height: 130px; border-radius: 50%; object-fit: cover; margin-bottom: 8px;">
   <div style="font-weight: 600; font-size: 15px;">{{ person.name }}</div>
   <div style="font-size: 13px; color: #6c757d;">{{ person.role }}</div>
 </div>
