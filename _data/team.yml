@@ -8,34 +8,34 @@ pi:
   - name: "Avi Goldstein"
     role: "Principal Investigator"
     bio: "Professor at the Department of Psychology, Bar-Ilan University"
-    image: /assets/images/team/avi-goldstein.jpg
-    scholar: "https://scholar.google.com/citations?user=YOUR_ID"
+    image: /assets/images/team/avi-goldstein.avif
+    scholar: "https://scholar.google.com/citations?user=yFPSAxAAAAAJ"
     email: "avi.goldstein@biu.ac.il"
 
 current:
   - name: "Barak Atia"
     role: "Lab Manager · PhD Student"
-    image: /assets/images/team/barak-atia.jpg
+    image: /assets/images/team/barak-atia.avif
 
   - name: "Reina van der Goot"
     role: "PhD Student"
-    image: /assets/images/team/reina-vandergoot.jpg
+    image: /assets/images/team/reina-vandergoot.avif
 
   - name: "Mickey Katz"
     role: "Master's Student"
-    image: /assets/images/team/mickey-katz.jpg
+    image: /assets/images/team/mickey-katz.avif
 
   - name: "Daniil Sergeyenko"
     role: "Brain Science Student"
-    image: /assets/images/team/daniil-sergeyenko.jpg
+    image: /assets/images/team/daniil-sergeyenko.avif
 
   - name: "Adan Saada"
     role: "Master's Student"
-    image: /assets/images/team/adan-saada.jpg
+    image: /assets/images/team/adan-saada.avif
 
   - name: "Eden Tzadik"
     role: "Master's Student"
-    image: /assets/images/team/eden-tzadik.jpg
+    image: /assets/images/team/eden-tzadik.avif
 
 alumni:
   - name: "Oshrit Arviv"
